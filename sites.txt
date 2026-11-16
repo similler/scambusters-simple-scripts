@@ -1,0 +1,4 @@
+# Replace these examples with the domains or URLs you want to check.
+example.com
+https://example.org
+example.net
